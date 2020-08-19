@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning Machine Learing
 - 👯 I’m looking to collaborate on Development Projects
 - 💬 Ask me about Anything :male_detective:
-- 📫 How to reach me: :e-mail: ![Mehul Lokhande](mailto:mehullokhande9@gmail.com)
+- 📫 How to reach me: :e-mail: ![Mehul Lokhande](https://mailto:mehullokhande9@gmail.com)
 - ⚡ Fun fact: :cowboy_hat_face: THE INFAMOUS:horse:HORSE’S HEAD WAS REAL(:zany_face: If you know you know) :man_in_tuxedo:.
 
 
