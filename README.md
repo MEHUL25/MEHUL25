@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 
 
-**Tech I am Familiar with : 
+### Languages and Tools : 
 
 <img align="left" alt="Visual Studio Code" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="HTML5" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
@@ -36,17 +36,24 @@ Here are some ideas to get you started:
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=MEHUL25)
 
-**Connect with me on : 
+### Connect with me : 
 
-<img align="left" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" /> &nbsp;&nbsp; : https://twitter.com/Mehul
+<img align="left" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" /> &nbsp;&nbsp; 
 
-<img align="left" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />&nbsp;&nbsp; : https://www.linkedin.com/in/Mehul
+<img align="left" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />&nbsp;&nbsp; 
 
-<img align="left" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />&nbsp;&nbsp; : https://www.instagram.com/Mehul
+<img align="left" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />&nbsp;&nbsp; 
+[<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]&nbsp;&nbsp; 
+<img align="left" width="25px" src="https://simpleicon.com/wp-content/uploads/new-email.png" />&nbsp;&nbsp; 
 
-<img align="left" width="25px" src="https://simpleicon.com/wp-content/uploads/new-email.png" />&nbsp;&nbsp; : [Mehul Lokhande](mailto:mehullokhande9@gmail.com)
+---
 
+<details>
+  <summary>:zap: Github Stats</summary>
 
+  <img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.vercel.app/api?username=MEHUL25&show_icons=true&hide_border=true" />
+
+</details>
 
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![counter](https://en8or8k31a7u43t.m.pipedream.net)
