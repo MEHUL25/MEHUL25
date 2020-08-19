@@ -57,13 +57,12 @@ Here are some ideas to get you started:
 <img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />&nbsp;&nbsp; 
 <img align="left" width="25px" src="https://simpleicon.com/wp-content/uploads/new-email.png" />&nbsp;&nbsp; 
 
-<br>
 
 ---
 
 
 <details>
-  <summary>:zap: Github Stats
+  <summary>:zap: <h>Github Stats</h>
   </summary>
 
 </details>
