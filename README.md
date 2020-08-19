@@ -35,8 +35,8 @@ Here are some ideas to get you started:
 
 
 <br>
-<hr>
-<br>
+
+
 ### Connect with me : 
 
 <img align="left" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" /> &nbsp;&nbsp; 
@@ -45,7 +45,9 @@ Here are some ideas to get you started:
 <img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />&nbsp;&nbsp; 
 <img align="left" width="25px" src="https://simpleicon.com/wp-content/uploads/new-email.png" />&nbsp;&nbsp; 
 
+<br>
 ---
+<br>
 
 <details>
   <summary>:zap: Github Stats</summary>
@@ -55,7 +57,7 @@ Here are some ideas to get you started:
 </details>
 
 ---
+
 <br>
-<hr>
-<br>
-<p style="align=right">![counter](https://en8or8k31a7u43t.m.pipedream.net)</p>
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![counter](https://en8or8k31a7u43t.m.pipedream.net)
