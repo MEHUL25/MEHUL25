@@ -53,15 +53,17 @@ Here are some ideas to get you started:
 
 <details>
   <summary>:zap: Github Stats
-  <br>
-    ![Github stats](https://github-readme-stats.vercel.app/api?username=MEHUL25)
   </summary>
 
 </details>
+
+<br>
+
+![Github stats](https://github-readme-stats.vercel.app/api?username=MEHUL25)
 
 ---
 
 <br>
 
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![counter](https://en8or8k31a7u43t.m.pipedream.net)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![counter](https://en8or8k31a7u43t.m.pipedream.net)
