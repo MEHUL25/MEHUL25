@@ -34,16 +34,12 @@ Here are some ideas to get you started:
 
 
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=MEHUL25)
-
 ### Connect with me : 
 
 <img align="left" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" /> &nbsp;&nbsp; 
-
 <img align="left" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />&nbsp;&nbsp; 
-
 <img align="left" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />&nbsp;&nbsp; 
-[<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]&nbsp;&nbsp; 
+<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />&nbsp;&nbsp; 
 <img align="left" width="25px" src="https://simpleicon.com/wp-content/uploads/new-email.png" />&nbsp;&nbsp; 
 
 ---
