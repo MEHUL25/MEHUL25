@@ -34,6 +34,7 @@ Here are some ideas to get you started:
 
 
 
+
 ### Connect with me : 
 
 <img align="left" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" /> &nbsp;&nbsp; 
@@ -51,5 +52,6 @@ Here are some ideas to get you started:
 
 </details>
 
+---
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![counter](https://en8or8k31a7u43t.m.pipedream.net)
