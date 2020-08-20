@@ -3,6 +3,9 @@
 ---
 
 ### Hi there 👋 My name is Mehul 	:man_technologist:
+### 4 :star: on Codechef
+
+
 
 
 
@@ -12,12 +15,17 @@
 Here are some ideas to get you started:
 -->
 
+### About Me
+
 - 🔭 I’m currently working on NodeJS
 - 🌱 I’m currently learning Machine Learing
 - 👯 I’m looking to collaborate on Development Projects
 - 💬 Ask me about Anything :male_detective:
 - 📫 How to reach me: :e-mail: mehullokhande9@gmail.com
 - ⚡ Fun fact: :cowboy_hat_face: THE INFAMOUS:horse:HORSE’S HEAD WAS REAL(:zany_face: If you know you know) :man_in_tuxedo:.
+- First :cupid: Codechef
+- Second :cupid: JB 007 :bomb:
+
 
 
 ### Languages and Tools : 
