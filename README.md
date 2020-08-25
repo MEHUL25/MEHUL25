@@ -2,9 +2,9 @@
 
 ---
 
-### Hi there 👋 My name is Mehul 	:man_technologist:
-### Jack :crown: of All Trades :black_joker:.
-### 4 :star: on Codechef
+## Hi there 👋 My name is Mehul 	:man_technologist:
+**Jack :crown: of All Trades :black_joker:.**
+**4 :star: on Codechef**
 
 
 
