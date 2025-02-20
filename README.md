@@ -2,30 +2,12 @@
 
 ---
 
-## Hi there 👋 My name is Mehul 	:man_technologist:
-- **Jack :crown: of All Trades :black_joker:**
-- **4 :star: on Codechef**
-
-
-
-
-
-<!--
-**MEHUL25/MEHUL25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
--->
+## Hi there 👋 My name is Mehul 
 
 ### About Me
 
-- 🔭 I’m currently working on NodeJS
-- 🌱 I’m currently learning Machine Learing
 - 👯 I’m looking to collaborate on Development Projects
-- 💬 Ask me about Anything :male_detective:
 - 📫 How to reach me: :e-mail: mehullokhande9@gmail.com
-- ⚡ Fun fact: :cowboy_hat_face: THE INFAMOUS:horse:HORSE’S HEAD WAS REAL(:zany_face: If you know you know) :man_in_tuxedo:.
-- First :cupid: Codechef
-- Second :cupid: JB 007 :bomb:
 - PortFolio Site : <!-- https://mehul25.github.io/Mehul-Lokhande/ -->
 
 
@@ -43,20 +25,6 @@ Here are some ideas to get you started:
 <img align="left" alt="MongoDB" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
 <img align="left" alt="Git" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="GitHub" width="30px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-
-
-<br>
-
-### Technical Profiles :
-
-- Codechef - <!-- https://mehul25.github.io/Mehul-Lokhande/ -->
-- Codeforces - 
-- Hackerrank -
-- Google Cloud Training - https://google.qwiklabs.com/public_profiles/89b69efa-7f94-404f-924b-8bc758a93e94
-- HackerEarth - 
-- Stopstalk - 
-- Github - 
-
 
 
 <br>
